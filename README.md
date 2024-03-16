@@ -26,7 +26,7 @@ To convert this app into a GitHub repository, and run you can follow these steps
 6. **Push to GitHub:**
    - Link your local repository to the GitHub repository you created and push your code. Run the following command:
      ```
-     git remote add origin <repository_url>
+     git remote add origin <https://github.com/Arminsbss/Province-separator>
      git push -u origin master
      ```
 
