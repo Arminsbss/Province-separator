@@ -1,5 +1,5 @@
 # Province-separator
-It seems like you've created a Python application using Tkinter to separate data from one Excel file into multiple Excel files based on province names. To convert this into a GitHub repository, you can follow these steps:
+To convert this app into a GitHub repository, and run you can follow these steps:
 
 1. **Create a GitHub Repository:**
    - Go to GitHub and create a new repository for your project.
