@@ -54,7 +54,7 @@ This is a Python application built using Tkinter that separates data from one Ex
 3. Run the application:
 
    ```bash
-   python app.py
+   python engineer_sabour.ipynb
    ```
 
 4. Select the Excel file containing the data.
