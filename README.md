@@ -42,7 +42,7 @@ This is a Python application built using Tkinter that separates data from one Ex
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Arminsbss/Province-separator>
    ```
 
 2. Install the required dependencies:
@@ -71,5 +71,3 @@ This is a Python application built using Tkinter that separates data from one Ex
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Make sure to replace `<repository_url>` with the URL of your GitHub repository. You can also add more sections to your README.md file as needed, such as Installation, Contributing guidelines, etc.
